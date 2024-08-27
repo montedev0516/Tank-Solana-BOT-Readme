@@ -1,7 +1,5 @@
 # Solana Telegram Signal Trading Bot
 
-![sol_tank bot](/assets/Solana_Tank_Bot.png)
-
 ## Trading Stratergy
 
 ![Stratergy](/assets/Stratergy.png)
