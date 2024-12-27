@@ -24,7 +24,7 @@
 * **TELEGRAM_TOKEN**='6488196050:AAEuA3DeoblV-LZQwoexDgWJoM2Tg0-E2Ns'
 
 * **RPC_URL**='https://mainnet.helius-rpc.com/?api-key=...'
-* **WEBSOCKET_URL** = "wss://mainnet.helius-rpc.com/?api-key=..."
+* **WEBSOCKET_URL** = 'wss://mainnet.helius-rpc.com/?api-key=...'
 
 * **FALCONHIT_API_KEY**=""
 * **MORALIS_API_KEY**=""
