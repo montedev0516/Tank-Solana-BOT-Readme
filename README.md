@@ -23,8 +23,8 @@
 
 * **TELEGRAM_TOKEN**='6488196050:AAEuA3DeoblV-LZQwoexDgWJoM2Tg0-E2Ns'
 
-* **RPC_URL**='https://mainnet.helius-rpc.com/?api-key=12e48098-6e57-4db8-9d44-1bc2127dd504'
-* **WEBSOCKET_URL** = "wss://mainnet.helius-rpc.com/?api-key=12e48098-6e57-4db8-9d44-1bc2127dd504"
+* **RPC_URL**='https://mainnet.helius-rpc.com/?api-key=...'
+* **WEBSOCKET_URL** = "wss://mainnet.helius-rpc.com/?api-key=..."
 
 * **FALCONHIT_API_KEY**=""
 * **MORALIS_API_KEY**=""
@@ -35,7 +35,7 @@
 
 1. **yarn install**
 2. **yarn start**
-3. Find **@tank_solbot** (in Telegram)
+3. Find developer **@alpha_T0108** (in Telegram)
 4. **/start** (Telegram)
 5. selection buttons ...
 
@@ -45,5 +45,5 @@
 
 ## https://github.com/montedev0516/Tank-Solana-BOT (private)
 
-## @tank_solbot
+## @alpha_T0108 (developer)
 ## Siganl Source Channel (----------)
